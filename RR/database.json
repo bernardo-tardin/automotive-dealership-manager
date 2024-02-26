@@ -1,0 +1,955 @@
+{
+  "clientes": [
+    {
+      "data": "27-09-2023",
+      "name": "Eduardo Filipe do Nascimento Gomes",
+      "nif": "309531403",
+      "telephone": "929390525",
+      "email": "",
+      "morada": "Praceta Conego Francisco Pacheco Pereira, 25 - 3 ESQ FRT",
+      "localidade": "Braga (S. Vitor)",
+      "codigo_postal": "4715-287",
+      "identificacao": "Passaporte: GD513924",
+      "matricula": "15-19-SL",
+      "marca": "Citroen",
+      "modelo": "Xsara",
+      "ano": "2001",
+      "valor_total": 2300.0,
+      "valor_entrada": 500.0,
+      "juros": 3,
+      "prestacoes": [
+        [
+          2,
+          "20-11-2023",
+          150.78,
+          "Nao Pago"
+        ],
+        [
+          3,
+          "20-12-2023",
+          150.78,
+          "Nao Pago"
+        ],
+        [
+          4,
+          "20-01-2024",
+          150.78,
+          "Nao Pago"
+        ],
+        [
+          5,
+          "20-02-2024",
+          150.78,
+          "Nao Pago"
+        ],
+        [
+          6,
+          "20-03-2024",
+          150.78,
+          "Nao Pago"
+        ],
+        [
+          7,
+          "20-04-2024",
+          150.78,
+          "Nao Pago"
+        ],
+        [
+          8,
+          "20-05-2024",
+          150.78,
+          "Nao Pago"
+        ],
+        [
+          9,
+          "20-06-2024",
+          150.78,
+          "Nao Pago"
+        ],
+        [
+          10,
+          "20-07-2024",
+          150.78,
+          "Nao Pago"
+        ],
+        [
+          11,
+          "20-08-2024",
+          150.78,
+          "Nao Pago"
+        ],
+        [
+          12,
+          "20-09-2024",
+          150.78,
+          "Nao Pago"
+        ],
+        [
+          13,
+          "20-10-2024",
+          150.78,
+          "Nao Pago"
+        ],
+        [
+          14,
+          "20-11-2024",
+          150.78,
+          "Nao Pago"
+        ],
+        [
+          15,
+          "20-12-2024",
+          150.78,
+          "Nao Pago"
+        ]
+      ]
+    },
+    {
+      "data": "27-09-2023",
+      "name": "Diana Filipa Ferreira Esteves",
+      "nif": "227755421",
+      "telephone": "934762004",
+      "email": "",
+      "morada": "R Bou\u00e7a das Valas 78 RCDTO",
+      "localidade": "Morreira",
+      "codigo_postal": "4705-526",
+      "identificacao": "Cart\u00e3o de Cidad\u00e3o: 139549463ZV6",
+      "matricula": "55-16-QN",
+      "marca": "Renault",
+      "modelo": "Megane",
+      "ano": "2000",
+      "valor_total": 1200.0,
+      "valor_entrada": 200.0,
+      "juros": 3,
+      "prestacoes": [
+        [
+          2,
+          "15-11-2023",
+          117.23,
+          "Nao Pago"
+        ],
+        [
+          3,
+          "15-12-2023",
+          117.23,
+          "Nao Pago"
+        ],
+        [
+          4,
+          "15-01-2024",
+          117.23,
+          "Nao Pago"
+        ],
+        [
+          5,
+          "15-02-2024",
+          117.23,
+          "Nao Pago"
+        ],
+        [
+          6,
+          "15-03-2024",
+          117.23,
+          "Nao Pago"
+        ],
+        [
+          7,
+          "15-04-2024",
+          117.23,
+          "Nao Pago"
+        ],
+        [
+          8,
+          "15-05-2024",
+          117.23,
+          "Nao Pago"
+        ],
+        [
+          9,
+          "15-06-2024",
+          117.23,
+          "Nao Pago"
+        ],
+        [
+          10,
+          "15-07-2024",
+          117.23,
+          "Nao Pago"
+        ]
+      ]
+    },
+    {
+      "data": "19-10-2023",
+      "name": "Amilton dos Anjos Barbosa  ",
+      "nif": "316881384",
+      "telephone": "911551516",
+      "email": "anjosbarbosa93@icloud.com",
+      "morada": "Cal\u00e7ada de Santa Tecla 43 4 Esquerdo",
+      "localidade": "S\u00e3o Victor - Braga",
+      "codigo_postal": "4715-129",
+      "identificacao": "Passaporte: GD373271",
+      "matricula": "05-45-IX",
+      "marca": "BMW",
+      "modelo": "",
+      "ano": "1997",
+      "valor_total": 3200.0,
+      "valor_entrada": 1000.0,
+      "juros": 3,
+      "prestacoes": [
+        [
+          1,
+          "10-11-2023",
+          184.29,
+          "Nao Pago"
+        ],
+        [
+          2,
+          "10-12-2023",
+          184.29,
+          "Nao Pago"
+        ],
+        [
+          3,
+          "10-01-2024",
+          184.29,
+          "Nao Pago"
+        ],
+        [
+          4,
+          "10-02-2024",
+          184.29,
+          "Nao Pago"
+        ],
+        [
+          5,
+          "10-03-2024",
+          184.29,
+          "Nao Pago"
+        ],
+        [
+          6,
+          "10-04-2024",
+          184.29,
+          "Nao Pago"
+        ],
+        [
+          7,
+          "10-05-2024",
+          184.29,
+          "Nao Pago"
+        ],
+        [
+          8,
+          "10-06-2024",
+          184.29,
+          "Nao Pago"
+        ],
+        [
+          9,
+          "10-07-2024",
+          184.29,
+          "Nao Pago"
+        ],
+        [
+          10,
+          "10-08-2024",
+          184.29,
+          "Nao Pago"
+        ],
+        [
+          11,
+          "10-09-2024",
+          184.29,
+          "Nao Pago"
+        ],
+        [
+          12,
+          "10-10-2024",
+          184.29,
+          "Nao Pago"
+        ],
+        [
+          13,
+          "10-11-2024",
+          184.29,
+          "Nao Pago"
+        ],
+        [
+          14,
+          "10-12-2024",
+          184.29,
+          "Nao Pago"
+        ],
+        [
+          15,
+          "10-01-2025",
+          184.29,
+          "Nao Pago"
+        ]
+      ]
+    },
+    {
+      "data": "19-10-2023",
+      "name": "Valcios dos Santos Borges",
+      "nif": "317720384",
+      "telephone": "",
+      "email": "gugaborges2012@hotmail.com",
+      "morada": "R Funda\u00e7\u00e3o Gulbenkian n 132 -2 ESQ",
+      "localidade": "S\u00e3o Vitor - Braga",
+      "codigo_postal": "4710-394",
+      "identificacao": "Passaporte: FW660753",
+      "matricula": "26-17-TI",
+      "marca": "Volkswagen",
+      "modelo": "Golf",
+      "ano": "2002",
+      "valor_total": 2700.0,
+      "valor_entrada": 400.0,
+      "juros": 3,
+      "prestacoes": [
+        [
+          1,
+          "20-11-2023",
+          231.06,
+          "Nao Pago"
+        ],
+        [
+          2,
+          "20-12-2023",
+          231.06,
+          "Nao Pago"
+        ],
+        [
+          3,
+          "20-01-2024",
+          231.06,
+          "Nao Pago"
+        ],
+        [
+          4,
+          "20-02-2024",
+          231.06,
+          "Nao Pago"
+        ],
+        [
+          5,
+          "20-03-2024",
+          231.06,
+          "Nao Pago"
+        ],
+        [
+          6,
+          "20-04-2024",
+          231.06,
+          "Nao Pago"
+        ],
+        [
+          7,
+          "20-05-2024",
+          231.06,
+          "Nao Pago"
+        ],
+        [
+          8,
+          "20-06-2024",
+          231.06,
+          "Nao Pago"
+        ],
+        [
+          9,
+          "20-07-2024",
+          231.06,
+          "Nao Pago"
+        ],
+        [
+          10,
+          "20-08-2024",
+          231.06,
+          "Nao Pago"
+        ],
+        [
+          11,
+          "20-09-2024",
+          231.06,
+          "Nao Pago"
+        ],
+        [
+          12,
+          "20-10-2024",
+          231.06,
+          "Nao Pago"
+        ]
+      ]
+    },
+    {
+      "data": "08-11-2023",
+      "name": "Edilson Garcia Ganga",
+      "nif": "318956977",
+      "telephone": "924 937 037",
+      "email": "",
+      "morada": "Rua de Tr\u00e1s 14",
+      "localidade": "S\u00e3o Teot\u00f3nio",
+      "codigo_postal": "7630-645",
+      "identificacao": "Passaporte: FT762111",
+      "matricula": "06-94-VA",
+      "marca": "HYUNDAI",
+      "modelo": "ACCENT",
+      "ano": "2003",
+      "valor_total": 2700.0,
+      "valor_entrada": 200.0,
+      "juros": 0,
+      "prestacoes": [
+        [
+          1,
+          "10-12-2023",
+          208.33,
+          "Nao Pago"
+        ],
+        [
+          2,
+          "10-01-2024",
+          208.33,
+          "Nao Pago"
+        ],
+        [
+          3,
+          "10-02-2024",
+          208.33,
+          "Nao Pago"
+        ],
+        [
+          4,
+          "10-03-2024",
+          208.33,
+          "Nao Pago"
+        ],
+        [
+          5,
+          "10-04-2024",
+          208.33,
+          "Nao Pago"
+        ],
+        [
+          6,
+          "10-05-2024",
+          208.33,
+          "Nao Pago"
+        ],
+        [
+          7,
+          "10-06-2024",
+          208.33,
+          "Nao Pago"
+        ],
+        [
+          8,
+          "10-07-2024",
+          208.33,
+          "Nao Pago"
+        ],
+        [
+          9,
+          "10-08-2024",
+          208.33,
+          "Nao Pago"
+        ],
+        [
+          10,
+          "10-09-2024",
+          208.33,
+          "Nao Pago"
+        ],
+        [
+          11,
+          "10-10-2024",
+          208.33,
+          "Nao Pago"
+        ],
+        [
+          12,
+          "10-11-2024",
+          208.33,
+          "Nao Pago"
+        ]
+      ]
+    },
+    {
+      "data": "09-11-2023",
+      "name": "Romison Rezende de Souza",
+      "nif": "319248720",
+      "telephone": "929 392 441",
+      "email": "",
+      "morada": "Rua Padre Lu\u00eds Portela 13 3- esquerdo",
+      "localidade": "Maximinos Braga",
+      "codigo_postal": "47000-237",
+      "identificacao": "Passaporte: GF524343",
+      "matricula": "48-49-XX",
+      "marca": "SKODA",
+      "modelo": "FABIA",
+      "ano": "2004",
+      "valor_total": 2500.0,
+      "valor_entrada": 500.0,
+      "juros": 3,
+      "prestacoes": [
+        [
+          1,
+          "18-10-2023",
+          234.46,
+          "Nao Pago"
+        ],
+        [
+          2,
+          "18-11-2023",
+          234.46,
+          "Nao Pago"
+        ],
+        [
+          3,
+          "18-12-2023",
+          234.46,
+          "Nao Pago"
+        ],
+        [
+          4,
+          "18-01-2024",
+          234.46,
+          "Nao Pago"
+        ],
+        [
+          5,
+          "18-02-2024",
+          234.46,
+          "Nao Pago"
+        ],
+        [
+          6,
+          "18-03-2024",
+          234.46,
+          "Nao Pago"
+        ],
+        [
+          7,
+          "18-04-2024",
+          234.46,
+          "Nao Pago"
+        ],
+        [
+          8,
+          "18-05-2024",
+          234.46,
+          "Nao Pago"
+        ],
+        [
+          9,
+          "18-06-2024",
+          234.46,
+          "Nao Pago"
+        ],
+        [
+          10,
+          "18-07-2024",
+          234.46,
+          "Nao Pago"
+        ]
+      ]
+    },
+    {
+      "data": "27-11-2023",
+      "name": "Pollyanna Gon\u00e7alves de Ara\u00fajo",
+      "nif": "308583302",
+      "telephone": "968491975",
+      "email": "",
+      "morada": "Rua do Monte,14",
+      "localidade": "Lomar Braga",
+      "codigo_postal": "4705-179",
+      "identificacao": "Passaporte: YE076780",
+      "matricula": "82-81-RV",
+      "marca": "VOLKSWAGEN",
+      "modelo": "POLO",
+      "ano": "2001",
+      "valor_total": 2500.0,
+      "valor_entrada": 1000.0,
+      "juros": 0,
+      "prestacoes": [
+        [
+          1,
+          "20-12-2023",
+          150.0,
+          "Nao Pago"
+        ],
+        [
+          2,
+          "20-01-2024",
+          150.0,
+          "Nao Pago"
+        ],
+        [
+          3,
+          "20-02-2024",
+          150.0,
+          "Nao Pago"
+        ],
+        [
+          4,
+          "20-03-2024",
+          150.0,
+          "Nao Pago"
+        ],
+        [
+          5,
+          "20-04-2024",
+          150.0,
+          "Nao Pago"
+        ],
+        [
+          6,
+          "20-05-2024",
+          150.0,
+          "Nao Pago"
+        ],
+        [
+          7,
+          "20-06-2024",
+          150.0,
+          "Nao Pago"
+        ],
+        [
+          8,
+          "20-07-2024",
+          150.0,
+          "Nao Pago"
+        ],
+        [
+          9,
+          "20-08-2024",
+          150.0,
+          "Nao Pago"
+        ],
+        [
+          10,
+          "20-09-2024",
+          150.0,
+          "Nao Pago"
+        ]
+      ]
+    },
+    {
+      "data": "27-11-2023",
+      "name": "Francisco Ernesto de Oliveira Peixoto",
+      "nif": "193133768",
+      "telephone": "915533286",
+      "email": "",
+      "morada": "Rua Cavelo 2007",
+      "localidade": "Celeir\u00f3s Braga",
+      "codigo_postal": "4705-401",
+      "identificacao": "Cart\u00e3o de Cidad\u00e3o: 10164970",
+      "matricula": "10-92-GM",
+      "marca": "RENAULT",
+      "modelo": "MEGANE",
+      "ano": "2001",
+      "valor_total": 1600.0,
+      "valor_entrada": 300.0,
+      "juros": 2.07,
+      "prestacoes": [
+        [
+          1,
+          "25-11-2023",
+          80.04,
+          "Nao Pago"
+        ],
+        [
+          2,
+          "25-12-2023",
+          80.04,
+          "Nao Pago"
+        ],
+        [
+          3,
+          "25-01-2024",
+          80.04,
+          "Nao Pago"
+        ],
+        [
+          4,
+          "25-02-2024",
+          80.04,
+          "Nao Pago"
+        ],
+        [
+          5,
+          "25-03-2024",
+          80.04,
+          "Nao Pago"
+        ],
+        [
+          6,
+          "25-04-2024",
+          80.04,
+          "Nao Pago"
+        ],
+        [
+          7,
+          "25-05-2024",
+          80.04,
+          "Nao Pago"
+        ],
+        [
+          8,
+          "25-06-2024",
+          80.04,
+          "Nao Pago"
+        ],
+        [
+          9,
+          "25-07-2024",
+          80.04,
+          "Nao Pago"
+        ],
+        [
+          10,
+          "25-08-2024",
+          80.04,
+          "Nao Pago"
+        ],
+        [
+          11,
+          "25-09-2024",
+          80.04,
+          "Nao Pago"
+        ],
+        [
+          12,
+          "25-10-2024",
+          80.04,
+          "Nao Pago"
+        ],
+        [
+          13,
+          "25-11-2024",
+          80.04,
+          "Nao Pago"
+        ],
+        [
+          14,
+          "25-12-2024",
+          80.04,
+          "Nao Pago"
+        ],
+        [
+          15,
+          "25-01-2025",
+          80.04,
+          "Nao Pago"
+        ],
+        [
+          16,
+          "25-02-2025",
+          80.04,
+          "Nao Pago"
+        ],
+        [
+          17,
+          "25-03-2025",
+          80.04,
+          "Nao Pago"
+        ],
+        [
+          18,
+          "25-04-2025",
+          80.04,
+          "Nao Pago"
+        ],
+        [
+          19,
+          "25-05-2025",
+          80.04,
+          "Nao Pago"
+        ],
+        [
+          20,
+          "25-06-2025",
+          80.04,
+          "Nao Pago"
+        ]
+      ]
+    },
+    {
+      "data": "27-11-2023",
+      "name": "Thiago Portilho Vila Nova",
+      "nif": "314339965",
+      "telephone": "961067547",
+      "email": "",
+      "morada": "Av Central 156 S\u00e3o Jos\u00e9 de S\u00e3o L\u00e1zaro",
+      "localidade": "Braga",
+      "codigo_postal": "4710-251",
+      "identificacao": "Passaporte: GE755790",
+      "matricula": "06-94-VA",
+      "marca": "HYUNDAI",
+      "modelo": "ACCENT",
+      "ano": "2003",
+      "valor_total": 3000.0,
+      "valor_entrada": 500.0,
+      "juros": 3.0,
+      "prestacoes": [
+        [
+          1,
+          "06-01-2024",
+          209.42,
+          "Nao Pago"
+        ],
+        [
+          2,
+          "06-02-2024",
+          209.42,
+          "Nao Pago"
+        ],
+        [
+          3,
+          "06-03-2024",
+          209.42,
+          "Nao Pago"
+        ],
+        [
+          4,
+          "06-04-2024",
+          209.42,
+          "Nao Pago"
+        ],
+        [
+          5,
+          "06-05-2024",
+          209.42,
+          "Nao Pago"
+        ],
+        [
+          6,
+          "06-06-2024",
+          209.42,
+          "Nao Pago"
+        ],
+        [
+          7,
+          "06-07-2024",
+          209.42,
+          "Nao Pago"
+        ],
+        [
+          8,
+          "06-08-2024",
+          209.42,
+          "Nao Pago"
+        ],
+        [
+          9,
+          "06-09-2024",
+          209.42,
+          "Nao Pago"
+        ],
+        [
+          10,
+          "06-10-2024",
+          209.42,
+          "Nao Pago"
+        ],
+        [
+          11,
+          "06-11-2024",
+          209.42,
+          "Nao Pago"
+        ],
+        [
+          12,
+          "06-12-2024",
+          209.42,
+          "Nao Pago"
+        ],
+        [
+          13,
+          "06-01-2025",
+          209.42,
+          "Nao Pago"
+        ],
+        [
+          14,
+          "06-02-2025",
+          209.42,
+          "Nao Pago"
+        ],
+        [
+          15,
+          "06-03-2025",
+          209.42,
+          "Nao Pago"
+        ]
+      ]
+    }
+  ],
+  "transacoes": [
+    4668.01,
+    [
+      [
+        "Eduardo Felipe do Nascimento Gomes",
+        "Entrada",
+        "22-09-2023",
+        500.0
+      ],
+      [
+        "Diana Filipa Ferreira Esteves",
+        "Entrada",
+        "27-09-2023",
+        200.0
+      ],
+      [
+        "Diana Filipa Ferreira Esteves",
+        1,
+        "15-10-2023",
+        117.23,
+        "Pago",
+        "19-10-2023"
+      ],
+      [
+        "Eduardo Filipe do Nascimento Gomes",
+        1,
+        "20-10-2023",
+        150.78,
+        "Pago",
+        "19-10-2023"
+      ],
+      [
+        "Amilton dos Anjos Barbosa  ",
+        "Entrada",
+        "19-10-2023",
+        1000.0
+      ],
+      [
+        "Valcios dos Santos Borges",
+        "Entrada",
+        "19-10-2023",
+        400.0
+      ],
+      [
+        "Romison Rezende de Souza",
+        "Entrada",
+        "09-11-2023",
+        500.0
+      ],
+      [
+        "Pollyanna Gon\u00e7alves de Ara\u00fajo",
+        "Entrada",
+        "27-11-2023",
+        1000.0
+      ],
+      [
+        "Francisco Ernesto de Oliveira Peixoto",
+        "Entrada",
+        "27-11-2023",
+        300.0
+      ],
+      [
+        "Thiago Portilho Vila Nova",
+        "Entrada",
+        "27-11-2023",
+        500.0
+      ]
+    ]
+  ]
+}
